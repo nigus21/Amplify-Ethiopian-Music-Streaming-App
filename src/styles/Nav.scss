@@ -1,0 +1,29 @@
+
+.nav{
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    nav{
+        width: 80%;
+        display: flex;
+        justify-content: space-between;
+        
+        button{
+            display: flex;
+            align-items: center;
+            border: 0;
+            outline: 0;
+            background-color: transparent;
+            padding: 5px 10px; 
+            cursor: pointer;
+            border: 1px solid black;
+        }
+        button:hover{
+            background-color: gray;
+            color: rgb(200, 198, 198);
+        }
+    }
+}

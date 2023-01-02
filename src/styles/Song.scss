@@ -1,0 +1,32 @@
+.song{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    min-height: 60vh;
+    img{
+        object-fit: cover;
+        width: 250px;
+        height: 250px;
+        border-radius: 50%;
+    }
+    .imgAnime{
+        animation: rotation 3s infinite linear;
+    }
+    @keyframes rotation {
+        from{
+            transform: rotate(0deg);
+        }
+        to{
+            transform: rotate(360deg);
+        }
+        
+    }
+    h2{
+        padding: 3rem 1rem 1rem 1rem;
+    }
+    h3{
+        font-size: 1rem;
+    }
+}

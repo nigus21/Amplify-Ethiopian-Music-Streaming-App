@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1,h2,h3{
+    color: rgb(215, 215, 215)
+}
+body{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(72, 72, 74, 0.2),rgba(86, 88, 88, 0.6)),url('../../public/images/background.jpg');
+    font-family: 'Lato', sans-serif;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+}
+@import "./Nav.scss";
+@import "./Player.scss";
+@import "./Song.scss";
+@import "./Library.scss"
