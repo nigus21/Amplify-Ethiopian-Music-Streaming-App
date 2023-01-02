@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Amplify-Ethiopian-Music-Streaming-App/static/css/main.ba956801.css",
+    "main.js": "/Amplify-Ethiopian-Music-Streaming-App/static/js/main.4af43618.js",
+    "static/js/787.e45540a8.chunk.js": "/Amplify-Ethiopian-Music-Streaming-App/static/js/787.e45540a8.chunk.js",
+    "static/media/background.jpg": "/Amplify-Ethiopian-Music-Streaming-App/static/media/background.a4a99cf341a6ec251720.jpg",
+    "index.html": "/Amplify-Ethiopian-Music-Streaming-App/index.html",
+    "main.ba956801.css.map": "/Amplify-Ethiopian-Music-Streaming-App/static/css/main.ba956801.css.map",
+    "main.4af43618.js.map": "/Amplify-Ethiopian-Music-Streaming-App/static/js/main.4af43618.js.map",
+    "787.e45540a8.chunk.js.map": "/Amplify-Ethiopian-Music-Streaming-App/static/js/787.e45540a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba956801.css",
+    "static/js/main.4af43618.js"
+  ]
+}
